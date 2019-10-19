@@ -1,2 +1,2 @@
-# Intro-to-R
-Intro to R
+# Intro-to-R-2ed
+Intro to R 2nd Edition
